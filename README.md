@@ -3,6 +3,8 @@
 ## Description
 1285 Indonesian native speakers participated in the recording with authentic accent. The recorded script is designed by linguists and cover a wide range of topics including generic, interactive, on-board and home. The text is manually proofread with high accuracy. It matches with mainstream Android and Apple system phones. The data set can be applied for automatic speech recognition, and machine translation scenes.
 
+For more details, please refer to the link: https://bit.ly/3C8zJJ6
+
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel
 
@@ -23,3 +25,6 @@ Indonesian
 
 ## Application Scene
 speech recognition, voiceprint recognition
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
